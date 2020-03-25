@@ -1,0 +1,14 @@
+.flipItem{
+    
+    min-width: 100%;
+    /* max-width: 100%; */
+    /* padding-right: 10px; */
+    /* margin: 0 20px; */
+}
+.imgContainer{
+
+    width: 100%;
+}
+.imgJPG{
+    max-width: 80%;
+}
